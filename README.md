@@ -1,5 +1,14 @@
 # imvora.dev Website Updates
 
+_11.01.2024_
+
+¡Imvora.dev llega a español!
+
+La versión en español de Imvora.dev estará disponible en las próximas semanas. Para obtener más información, visita nuestro sitio web o suscríbete a nuestro boletín.
+
+¡Gracias por tu interés en Imvora.dev!
+
+---
 
 _04.01.2024_
 
