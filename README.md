@@ -1,5 +1,13 @@
 # imvora.dev Website Updates
 
+_18.01.2024 late_
+
+Language select panel added.
+
+Language selection is changed.
+
+---
+
 _18.01.2024_
 
 You can now visit Imvora's website in Spanish too!
