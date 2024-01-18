@@ -1,5 +1,26 @@
 # imvora.dev Website Updates
 
+_18.01.2024_
+
+You can now visit Imvora's website in Spanish too!
+
+🇹🇷:
+
+Imvora'nın İspanyolca sürümüne göz atın:
+https://imvora.dev/es
+
+🇬🇧:
+
+Explore Imvora's Spanish version:
+https://imvora.dev/es
+
+🇪🇸:
+
+¡Descubre la versión en español de Imvora!
+https://imvora.dev/es
+
+---
+
 _11.01.2024_
 
 ¡Imvora.dev llega a español!
