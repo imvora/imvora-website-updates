@@ -1,5 +1,14 @@
 # imvora.dev Website Updates
 
+_19.01.2024_
+
+Wrongly added Support link name changed
+
+Removed lang-select div from TR lang site
+
+Removed lang-select div from ES lang site
+---
+
 _18.01.2024 late_
 
 Language select panel added.
