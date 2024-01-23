@@ -1,5 +1,12 @@
 # imvora.dev Website Updates
 
+
+_23.01.2024_
+
+The problem of incorrectly cut words due to animation has been solved.
+
+---
+
 _19.01.2024_
 
 Wrongly added Support link name changed
