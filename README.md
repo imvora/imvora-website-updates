@@ -1,10 +1,37 @@
 # imvora.dev Website Updates
 
+
+_27.01.2024_
+
+- The blog page system was completely changed.
+- Blog page designs were edited.
+- Blog page was made mobile compatible.
+- The first post was prepared and shared on the blog page ( [Morpheus-1 AI](https://blog.imvora.dev/writes/morpheus-1-ai) )
+- Turkish and English language options were added to the blog page.
+
+---
+
+_26.01.2024_ 
+
+- The animations in our services section on the homepage have changed.
+
+---
+
+_25.01.2024_
+
+- Security Test was applied.
+- SEO test was applied.
+- Some bugs were fixed.
+
+---
+
 _24.01.2024_
 
 - Mobile header logo img bug fixed.
 - Russian pages have been activated.
 - All photos have been reduced in size and converted to webpages.
+
+---
 
 _23.01.2024_
 
